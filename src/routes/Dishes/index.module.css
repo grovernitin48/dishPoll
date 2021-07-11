@@ -1,0 +1,32 @@
+
+.container {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-self: center;
+    grid-gap: 20px;
+}
+
+.container > *:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.tabs {
+    display: flex;
+    height: 100px;
+}
+
+.btn {
+    flex: 1 0 auto;
+    outline: navajowhite;
+    border: none;
+    border-bottom: 2px solid #cacaca;
+    background: none;
+    font-size: 32px;
+    cursor: pointer;
+}
+
+.isActive {
+    border-bottom-color: #006b7c;
+    background: #f3fdfd;
+}

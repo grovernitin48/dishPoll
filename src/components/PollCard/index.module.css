@@ -1,0 +1,19 @@
+.container {
+    box-shadow: 0 0 21px -2px rgb(225 225 225);
+    padding: 10px 0;
+    border-radius: 4px;
+}
+
+.header {
+    text-align: center;
+}
+
+.ratings {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.imgContainer {
+    min-height: 300px;
+    min-width: 300px;
+}
