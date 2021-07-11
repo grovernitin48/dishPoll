@@ -76,6 +76,11 @@ function Dishes() {
 
     function handleUserSelection({ id, rating }) {
         const temp = {...userSection }
+        Object.entries(temp).forEach(([key, value]) => {
+            if (value === rating) {
+                delete temp[key]
+            }
+        })
         temp[id] = rating;
         setUserSelection(temp);
         updateRating(temp);

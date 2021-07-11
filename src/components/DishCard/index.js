@@ -3,9 +3,9 @@ import cx from 'classnames';
 import styles from './index.module.css';
 
 function DishCard({ description, dishName, image, handleUserSelection, selectedDishes, id, removeRating }) {
-    const isDisabled = Object.keys(selectedDishes).length > 2 && !selectedDishes[id]
+        const isDisabled = Object.keys(selectedDishes).length > 2 && !selectedDishes[id]
     return (
-        <div className={cx(styles.container, {
+        <div data-testid={`dishCard-${id}`} className={cx(styles.container, {
             [styles.disabled]: isDisabled
         })}>
             <h1 className={styles.header}>{dishName}</h1>
