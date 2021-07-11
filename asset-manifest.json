@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.52824571.chunk.css",
-    "main.js": "/static/js/main.e9d7211d.chunk.js",
-    "main.js.map": "/static/js/main.e9d7211d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c2bdd5e3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c2bdd5e3.js.map",
-    "static/js/2.34fd06ce.chunk.js": "/static/js/2.34fd06ce.chunk.js",
-    "static/js/2.34fd06ce.chunk.js.map": "/static/js/2.34fd06ce.chunk.js.map",
-    "static/js/3.ed3cd2bc.chunk.js": "/static/js/3.ed3cd2bc.chunk.js",
-    "static/js/3.ed3cd2bc.chunk.js.map": "/static/js/3.ed3cd2bc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.52824571.chunk.css.map": "/static/css/main.52824571.chunk.css.map",
-    "static/js/2.34fd06ce.chunk.js.LICENSE.txt": "/static/js/2.34fd06ce.chunk.js.LICENSE.txt"
+    "main.css": "/dishPoll/static/css/main.52824571.chunk.css",
+    "main.js": "/dishPoll/static/js/main.e9d7211d.chunk.js",
+    "main.js.map": "/dishPoll/static/js/main.e9d7211d.chunk.js.map",
+    "runtime-main.js": "/dishPoll/static/js/runtime-main.a3ffa3ab.js",
+    "runtime-main.js.map": "/dishPoll/static/js/runtime-main.a3ffa3ab.js.map",
+    "static/js/2.34fd06ce.chunk.js": "/dishPoll/static/js/2.34fd06ce.chunk.js",
+    "static/js/2.34fd06ce.chunk.js.map": "/dishPoll/static/js/2.34fd06ce.chunk.js.map",
+    "static/js/3.ed3cd2bc.chunk.js": "/dishPoll/static/js/3.ed3cd2bc.chunk.js",
+    "static/js/3.ed3cd2bc.chunk.js.map": "/dishPoll/static/js/3.ed3cd2bc.chunk.js.map",
+    "index.html": "/dishPoll/index.html",
+    "static/css/main.52824571.chunk.css.map": "/dishPoll/static/css/main.52824571.chunk.css.map",
+    "static/js/2.34fd06ce.chunk.js.LICENSE.txt": "/dishPoll/static/js/2.34fd06ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2bdd5e3.js",
+    "static/js/runtime-main.a3ffa3ab.js",
     "static/js/2.34fd06ce.chunk.js",
     "static/css/main.52824571.chunk.css",
     "static/js/main.e9d7211d.chunk.js"
