@@ -1,6 +1,6 @@
 import { useContext, createContext } from "react";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Redirect,
@@ -25,7 +25,7 @@ function ProvideAuth({ children }) {
 
 export default function App() {
     return (
-        <Router>
+        <Router >
             <ProvideAuth>
                     <div>
                         <Switch>
