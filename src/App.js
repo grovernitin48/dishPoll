@@ -25,7 +25,7 @@ function ProvideAuth({ children }) {
 
 export default function App() {
     return (
-        <Router >
+        <Router basename="/dishPoll" >
             <ProvideAuth>
                     <div>
                         <Switch>
